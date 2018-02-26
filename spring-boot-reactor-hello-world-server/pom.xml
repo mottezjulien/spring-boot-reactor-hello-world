@@ -12,18 +12,6 @@
     </parent>
 
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
-                    <mainClass>fr.jmottez.reactor.spring.boot.server.SpringApplicationRunner</mainClass>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
-
 </project>
 
 
