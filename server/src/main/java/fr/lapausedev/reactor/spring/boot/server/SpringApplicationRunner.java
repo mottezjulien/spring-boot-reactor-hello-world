@@ -1,4 +1,4 @@
-package fr.jmottez.reactor.spring.boot.server;
+package fr.lapausedev.reactor.spring.boot.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

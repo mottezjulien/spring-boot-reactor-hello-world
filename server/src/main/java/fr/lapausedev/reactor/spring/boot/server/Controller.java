@@ -1,9 +1,8 @@
-package fr.jmottez.reactor.spring.boot.server;
+package fr.lapausedev.reactor.spring.boot.server;
 
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Flux;
 

@@ -1,4 +1,4 @@
-package fr.jmottez.reactor.spring.boot.client;
+package fr.lapausedev.reactor.spring.boot.client;
 
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.Disposable;
